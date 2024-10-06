@@ -25,7 +25,7 @@ git push -u origin main
 
 ***************erros**********
 
-comando para verificar a chave
+comando para verificar a chave***********
 ls -al ~/.ssh
 
 comando para iniciar o ssh-agent
