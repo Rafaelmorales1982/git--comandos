@@ -23,7 +23,7 @@ git push -u origin main
 
 
 
-***************erros
+***************erros**********
 
 comando para verificar a chave
 ls -al ~/.ssh
