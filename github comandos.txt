@@ -28,7 +28,7 @@ git push -u origin main
 comando para verificar a chave***********
 ls -al ~/.ssh
 
-comando para iniciar o ssh-agent
+comando para iniciar o ssh-agent *********
 eval"$(ssh-agent -s)"
 
 adicione para obter a chave privada
